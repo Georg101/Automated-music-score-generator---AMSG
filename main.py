@@ -30,7 +30,7 @@ elif y == 5:
     f.write("a")
 else:
     print("h")
-    f.write("h")
+    f.write("h") 
 
 #this part writes 20 notes to the file notes.txt
 count = 0
