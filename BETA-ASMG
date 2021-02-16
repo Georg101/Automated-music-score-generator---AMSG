@@ -3,7 +3,13 @@ import winsound
 
 y = (random.randint(1, 2))
 f = open("notes.score", "w", encoding="utf8")
-how_many_notes = int(input("How many notes?"))
+# Entering the number of notes
+while True:
+    try:
+        how_many_notes = int(input("How many notes? "))
+    except:
+        continue
+    break
 count = 0
 while count < how_many_notes :
     y = (random.randint(40, 52))
@@ -262,4 +268,5 @@ while count < number_of_chars_in_file:
 
 print("Thank you for using my program")
 print("the Author")
+print("any feedback welcome")
 print(":-)")
