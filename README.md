@@ -1,5 +1,10 @@
 # Automated-music-score-generator - ASMG
-In delopment. Nothing to see here **YET**   
+
+**BETA RELEASED**
+
+**TRY IT RIGHT NOW**
+
+any feedback welcome
 
 **not working on linux and mac**
 
