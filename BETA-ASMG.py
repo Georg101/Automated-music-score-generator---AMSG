@@ -32,7 +32,7 @@ while count < how_many_notes :
         f.write("e2")
     elif y == 41 and z == 3:
         f.write("e3")
-    #D
+    #D 
     elif y == 42 and z == 0:
         f.write("f0")
     elif y == 42 and z == 1:
