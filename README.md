@@ -1,6 +1,11 @@
 # Automated-music-score-generator - ASMG
-In delopment. Nothing to see here **YET**   
+
+REALEASED (ALMOST) FULL VERSION
+
+Download main.py
+
+.exe will by available in some time
 
 **not working on linux and mac**
 
-Full and working release will be available in **six months** 
+ 
